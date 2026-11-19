@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm -v)",
+      "Bash(npx --yes wrangler --version)",
+      "Bash(npx --yes wrangler whoami)",
+      "Bash(npx --yes wrangler login)",
+      "Bash(npx --yes wrangler pages deploy . --project-name=cinnamon-health --commit-dirty=true)",
+      "Bash(npx --yes wrangler pages project create cinnamon-health --production-branch=main)",
+      "Bash(find /Users/sithum/Projects/cinnamon-health -iname \"*hug42v*\" -o -iname \"*Gemini_Generated*\" 2>/dev/null; echo \"---\"; find /Users/sithum -maxdepth 3 -iname \"*hug42v*\" 2>/dev/null)",
+      "Read(//Users/sithum/**)",
+      "Bash(npx --yes wrangler pages deployment list --project-name=cinnamon-health)",
+      "Bash(curl -s https://cinnamon-health.pages.dev/)"
+    ]
+  }
+}

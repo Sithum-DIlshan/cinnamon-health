@@ -1,0 +1,60 @@
+════════════════════════════════════════════════════════════
+   QUICK IMAGE GUIDE - Cinnamon Health Website
+════════════════════════════════════════════════════════════
+
+📸 SAVE YOUR IMAGES LIKE THIS:
+
+┌─────────────────────────────────────────────────────────┐
+│ IMAGE #8 (Cinnamon Health Logo)                         │
+│ → Save as: assets/logo.png                              │
+│ ✓ REQUIRED - Shows in navigation bar                    │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│ IMAGE #2 (Tea cups + plant + product)                   │
+│ → Save as: assets/featured-product.jpg                  │
+│ ✓ REQUIRED - Main product showcase                      │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│ IMAGE #5 (Tea cups close-up on wooden table)            │
+│ → Save as: assets/product-tea-stick.jpg                 │
+│ ✓ REQUIRED - Product card image                         │
+└─────────────────────────────────────────────────────────┘
+
+┌─────────────────────────────────────────────────────────┐
+│ IMAGE #1 (Product packages without tea cups)            │
+│ → Save as: assets/about-cinnamon.jpg                    │
+│ ✓ REQUIRED - About section image                        │
+└─────────────────────────────────────────────────────────┘
+
+════════════════════════════════════════════════════════════
+
+HOW TO DO IT (3 MINUTES):
+
+1. Scroll up to see your images in the chat
+2. Right-click each image
+3. "Save Image As..."
+4. Use the exact filename shown above
+5. Save to: /Users/sithum/Projects/cinnamon-health/assets/
+
+THEN:
+
+6. Open index.html in your browser
+7. See your beautiful website come to life! ✨
+
+════════════════════════════════════════════════════════════
+
+OPTIONAL IMAGES (Add later):
+
+• Image #7 → assets/product-front.jpg
+• Image #4 → assets/product-instructions.jpg
+• Image #3, #6 → Alternative versions (keep as backup)
+
+════════════════════════════════════════════════════════════
+
+✓ Your images are PERFECT for this website!
+✓ The wooden table aesthetic matches the design beautifully
+✓ Professional quality, natural lighting, warm tones
+
+════════════════════════════════════════════════════════════
